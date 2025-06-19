@@ -10,6 +10,8 @@ const Header = () => {
             <p>Element from master branch </p>
             <h1>Investment Calculator</h1>
 
+            <p> New element to branch Dev </p>
+
         </header>
     );
 };
