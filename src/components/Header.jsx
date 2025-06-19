@@ -7,6 +7,7 @@ const Header = () => {
         <header id="header">
             <img src={image} alt="Logo showing a money bag"/>
             <p>hello </p>
+            <p>Element from master branch </p>
             <h1>Investment Calculator</h1>
         </header>
     );
