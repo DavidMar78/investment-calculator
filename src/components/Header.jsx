@@ -10,8 +10,8 @@ const Header = () => {
             <p>Element from master branch </p>
             <h1>Investment Calculator</h1>
 
-            <p> New /*/Fallout/*/ to branch Dev </p>
-
+            <p> New <change- to branch Dev </p>
+            <p>Message from commit </p>
             <h1>New title for moip dev</h1>
 
         </header>
