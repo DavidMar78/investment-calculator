@@ -12,6 +12,8 @@ const Header = () => {
 
             <p> New element to branch Dev </p>
 
+            <h1>New title for branch dev</h1>
+
         </header>
     );
 };
